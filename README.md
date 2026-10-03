@@ -1,6 +1,7 @@
-# 👋 Hello, I'm Thanushree S
+# 👋 Hi, I'm Thanushree S
 
-AI/ML and GenAI enthusiast focused on building practical, intelligent applications with Machine Learning, LLMs, RAG, and full-stack technologies.
+AI/ML & GenAI developer | Building intelligent solutions with Python, LLMs, RAG, and modern web technologies.
+
 
 # 💫 About Me:
 🔭 I’m currently working on: AI/ML, Generative AI, RAG pipelines, and intelligent full-stack applications<br>👯 I’m looking to collaborate on:  AI/ML, GenAI, LLM, computer vision, and open-source projects<br>🤝 I’m looking for help with:  Building scalable AI systems, advanced AI agents, and production-ready LLM applications<br>🌱 I’m currently learning:  LangGraph, AI Agents, multimodal AI, RAG, and advanced deep learning<br>💬 Ask me about: Python, Machine Learning, Generative AI, LLMs, RAG, Computer Vision, React, and AI projects<br>⚡ Fun fact: I enjoy turning real-world problems into practical AI-powered solutions and learning new technologies by building projects<br>
