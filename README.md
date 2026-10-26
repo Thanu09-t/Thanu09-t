@@ -1,37 +1,97 @@
-# 👋 Hi, I'm Thanushree S
-
-AI/ML & GenAI developer | Building intelligent solutions with Python, LLMs, RAG, and modern web technologies.
-
-
-# 💫 About Me:
-🔭 I’m currently working on: AI/ML, Generative AI, RAG pipelines, and intelligent full-stack applications<br>👯 I’m looking to collaborate on:  AI/ML, GenAI, LLM, computer vision, and open-source projects<br>🤝 I’m looking for help with:  Building scalable AI systems, advanced AI agents, and production-ready LLM applications<br>🌱 I’m currently learning:  LangGraph, AI Agents, multimodal AI, RAG, and advanced deep learning<br>💬 Ask me about: Python, Machine Learning, Generative AI, LLMs, RAG, Computer Vision, React, and AI projects<br>⚡ Fun fact: I enjoy turning real-world problems into practical AI-powered solutions and learning new technologies by building projects<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thanushree-s-30392736a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanushreesthanushrees212@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:7B2CBF,100:00B4D8&height=240&section=header&text=Thanushree%20S&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20%26%20GenAI%20Developer&descAlignY=64&descSize=22&animation=fadeIn" alt="Thanushree S banner" />
+<a href="https://github.com/Thanu09-t">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=Building+intelligent+solutions+with+Python;LLMs+%7C+RAG+%7C+AI+Agents+%7C+LangGraph;Turning+real-world+problems+into+AI+solutions;Learning+new+tech+by+building+projects" alt="Typing animation" />
+</a>
+<br/><br/>
+<a href="https://github.com/Thanu09-t"><img src="https://img.shields.io/badge/GitHub-Thanu09--t-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=Thanu09-t&label=Profile%20Views&style=for-the-badge&color=7B2CBF" alt="Profile views"/>
+<a href="https://github.com/Thanu09-t?tab=followers"><img src="https://img.shields.io/github/followers/Thanu09-t?style=for-the-badge&logo=github&color=00B4D8&labelColor=0D1117" alt="Followers"/></a>
 </div>
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Thanu09-t&theme=holi&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Thanu09-t&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thanu09-t&theme=holi&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thanu09-t&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Thanu09-t&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+👋 About Me
+> **AI/ML & GenAI developer** building intelligent solutions with **Python, LLMs, RAG, and modern web technologies**.
+<table>
+<tr>
+<td width="60%" valign="top">
+	
+🔭	Working on: AI/ML, Generative AI, RAG pipelines, and intelligent full-stack applications
+🌱	Learning: LangGraph, AI Agents, multimodal AI, RAG, and advanced deep learning
+👯	Collaborating on: AI/ML, GenAI, LLM, computer vision, and open-source projects
+🤝	Looking for help with: scalable AI systems, advanced AI agents, and production-ready LLM applications
+💬	Ask me about: Python, Machine Learning, Generative AI, LLMs, RAG, Computer Vision, React, and AI projects
+⚡	Fun fact: I enjoy turning real-world problems into practical AI-powered solutions and learning new technologies by building projects
+</td>
+<td width="40%" align="center" valign="middle">
+```python
+class Thanushree:
+    role = "AI/ML & GenAI Developer"
+    stack = ["Python", "LLMs",
+             "RAG", "React"]
+    learning = ["LangGraph",
+                "AI Agents",
+                "Multimodal AI"]
+    motto = "Build to learn."
+```
+</td>
+</tr>
+</table>
+---
+💻 Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,react,git,github,vscode&perline=5&theme=dark" alt="Core tools" />
+</div>
+<br/>
+Category	Technologies
+🧑‍💻 Languages & Web	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+🤖 AI / ML	![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-7B2CBF?style=for-the-badge) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00B4D8?style=for-the-badge) ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-E63946?style=for-the-badge)
+✨ Generative AI	![LLMs](https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+🛠️ Tools	![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
+📊 GitHub Stats
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Thanu09-t&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanu09-t&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=Thanu09-t&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thanu09-t&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity graph" />
+</div>
+🏆 Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Thanu09-t&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+</div>
+---
+🔝 Top Contributed Repo
+<div align="center">
+<!-- 👉 Replace YOUR_TOP_REPO with the exact name of your best repository -->
+<a href="https://github.com/Thanu09-t/YOUR_TOP_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanu09-t&repo=YOUR_TOP_REPO&theme=tokyonight&hide_border=true&show_owner=false" alt="Top contributed repo" />
+</a>
+</div>
+---
+🐍 Contribution Snake
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thanu09-t/Thanu09-t/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thanu09-t/Thanu09-t/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Thanu09-t/Thanu09-t/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+---
+✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</div>
+---
+🤝 Let's Connect
+I'd love to collaborate on AI/ML, GenAI, LLM, computer vision, and open-source projects.
+<div align="center">
+![GitHub](https://img.shields.io/badge/GitHub-Thanu09--t-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- Add your own links when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+<br/>
+Turning real-world problems into practical AI-powered solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,55:7B2CBF,100:0D1117&height=140&section=footer" alt="Footer wave" />
+</div>
