@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanushree S.
+# 👋 Hi, I'm Thanushree S
 
 AI/ML & GenAI developer | Building intelligent solutions with Python, LLMs, RAG, and modern web technologies.
 
