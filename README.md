@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=800020&height=260&section=header&text=Thanushree%20S&fontSize=62&fontColor=ffffff&fontAlignY=38&stroke=ff7a93&strokeWidth=2&desc=AI%2FML%20%C2%B7%20Generative%20AI%20%C2%B7%20LLM%20%26%20RAG%20Developer&descSize=20&descAlignY=60&descColor=f5c6d0&animation=fadeIn" width="100%" alt="Thanushree S"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=260&section=header&text=Thanushree%20S&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=AI%20ML%20%7C%20Generative%20AI%20%7C%20LLM%20and%20RAG%20Developer&descSize=20&descAlignY=58&descColor=f5c6d0&animation=fadeIn" width="100%" alt="Thanushree S"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3200&pause=900&color=FF7A93&center=true&vCenter=true&width=720&lines=Building+intelligent+solutions+with+Python+%26+LLMs;Designing+RAG+pipelines+and+AI+agents;Turning+real-world+problems+into+AI-powered+products;Full-stack+engineering+with+React+and+modern+web+tech" alt="Typing intro"/></a>
 
