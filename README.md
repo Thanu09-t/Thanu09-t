@@ -165,19 +165,6 @@ I treat design as part of engineering: an AI feature is only as good as the inte
 <br/>
 
 <!-- ═══════════════════════════ FEATURED WORK ═══════════════════════════ -->
-## ✦ Featured Work
-
-<!-- Replace the placeholders below with your real projects (repo name, one-line description, stack, link). -->
-
-<div align="center">
-
-<a href="https://github.com/Thanu09-t"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanu09-t&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&border_radius=14" alt="Project 1" /></a>
-<a href="https://github.com/Thanu09-t"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanu09-t&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&border_radius=14" alt="Project 2" /></a>
-
-<a href="https://github.com/Thanu09-t"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanu09-t&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&border_radius=14" alt="Project 3" /></a>
-<a href="https://github.com/Thanu09-t"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thanu09-t&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&border_radius=14" alt="Project 4" /></a>
-
-</div>
 
 <br/>
 
